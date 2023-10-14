@@ -1,0 +1,1 @@
+Build a Product Slip software in c++ base language. The user will input a name, phone number, address, price, and discount. write the program with the calculation after the discount price.

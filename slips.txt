@@ -1,0 +1,63 @@
+ 
+		===== Enter Customer Details =====		 
+
+	Name				: Sagar Biswas
+	Phone Number		: 01727361077
+	Address			: sagarbiswas.sb@gmail.com
+	Product Price		: 3500-/
+	Discount Rate	x	: 15%
+	Price after discount	: 2975-/
+ 
+		===== Enter Customer Details =====		 
+
+	Name				: Sagar Biswas
+	Phone Number		: 01727361077
+	Address			: Xyz@gmail.com
+	Product Price		: 4440-/
+	Discount Rate	x	: 15%
+	Price after discount	: 3774-/
+ 
+		===== Enter Customer Details =====		 
+
+	Name				: Sagar Biswas
+	Phone Number		: 01727361077
+	Address			: sagarb@gmail.com
+	Product Price		: 4000-/
+	Discount Rate	x	: 15%
+	Price after discount	: 3400-/
+ 
+		===== Enter Customer Details =====		 
+
+	Name				: asd
+	Phone Number		: 534367
+	Address			: dsg@g.com
+	Product Price		: 4555-/
+	Discount Rate	x	: 50%
+	Price after discount	: 2277.5-/
+ 
+		===== Enter Customer Details =====		 
+
+	Name				: Sar
+	Phone Number		: 3547854
+	Address			: S@G.com
+	Product Price		: 677-/
+	Discount Rate	x	: 50%
+	Price after discount	: 338.5-/
+ 
+		===== Enter Customer Details =====		 
+
+	Name				: Sagar Biswas
+	Phone Number		: 011727361077
+	Address			: sagr@gmail.com
+	Product Price		: 4999-/
+	Discount Rate	x	: 50%
+	Price after discount	: 2499.5-/
+ 
+		===== Enter Customer Details =====		 
+
+	Name					:  cjrtjh
+	Phone Number			: 41354235
+	Address					: x@g.com
+	Product Price			: 435-/
+	Discount Rate			: 50%
+	Price after discount		: 217.5-/
